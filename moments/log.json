@@ -1,12 +1,22 @@
 {
- "log": [
-  {
-   "date": "2026-10-21",
-   "kind": "funny",
-   "phrase": "Set a 10 minute timer. The dishes have waited long enough.",
-   "clips": [
-    "1AaVZ0T5oIMBTbnQOLmcpF9rfvTxkFfgW"
-   ]
-  }
- ]
+  "log": [
+    {
+      "date": "2026-10-21",
+      "kind": "funny",
+      "phrase": "Set a 10 minute timer. The dishes have waited long enough.",
+      "clips": [
+        "1AaVZ0T5oIMBTbnQOLmcpF9rfvTxkFfgW"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "kind": "support",
+      "phrase": "You do not have to feel ready. Just write the first line.",
+      "method": "words-first",
+      "clips": [
+        "1TkhvcxgqNpXElpcGYtUng-_GGvejwJTT",
+        "1j9PlIe4i5YVYiooF9Eeic57GwXFjL7uH"
+      ]
+    }
+  ]
 }
