@@ -5,428 +5,767 @@
   {
    "id": "1TkhvcxgqNpXElpcGYtUng-_GGvejwJTT",
    "name": "hand writing in a planner 2",
-   "group": "hand writing in a planner"
+   "group": "hand writing in a planner",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "1hNHpgRGH4nVp2UGgVLNbXLiTwbyV61S7",
    "name": "desk calendar showing a date",
-   "group": "desk calendar showing a date"
+   "group": "desk calendar showing a date",
+   "tags": [
+    "time",
+    "workspace",
+    "writing"
+   ]
   },
   {
    "id": "15IryxcdrinvS72yjG3XpcSTOsaLgDOx1",
    "name": "hand with a pen over a book",
-   "group": "hand with a pen over a book"
+   "group": "hand with a pen over a book",
+   "tags": [
+    "reading",
+    "writing"
+   ]
   },
   {
    "id": "1Bd4m347zn1DAySFcBw0mMkOtfV8qMbIh",
    "name": "hand typing on a phone",
-   "group": "hand typing on a phone"
+   "group": "hand typing on a phone",
+   "tags": [
+    "laptop",
+    "phone"
+   ]
   },
   {
    "id": "1keRX-Duf4RayjyzxP4CrdOLCr_od5a52",
    "name": "hands at a keyboard from above",
-   "group": "hands at a keyboard from above"
+   "group": "hands at a keyboard from above",
+   "tags": [
+    "laptop"
+   ]
   },
   {
    "id": "1lN708tLhfr5DeXFNl2aKQFuK_NbSFHEn",
    "name": "phone and coffee flat lay",
-   "group": "phone and coffee flat lay"
+   "group": "phone and coffee flat lay",
+   "tags": [
+    "coffee",
+    "phone"
+   ]
   },
   {
    "id": "147aI19MZ34cJ3JGNwd1iWOG28z2YBpsf",
    "name": "woman writing on a clipboard 2",
-   "group": "woman writing on a clipboard"
+   "group": "woman writing on a clipboard",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "12cTPwIf5DuyNN5Y__Xm37IKOWyCmOI9Z",
    "name": "books and a vase on a tray",
-   "group": "books and a vase on a tray"
+   "group": "books and a vase on a tray",
+   "tags": [
+    "flowers",
+    "food",
+    "reading"
+   ]
   },
   {
    "id": "1if-DKrAcz7fzVzIor6GFAdX8V_OxI0rG",
    "name": "coffee and documents on a desk",
-   "group": "coffee and documents on a desk"
+   "group": "coffee and documents on a desk",
+   "tags": [
+    "coffee",
+    "workspace",
+    "writing"
+   ]
   },
   {
    "id": "1slnKgzo4A8i-fJeRj8EQTRV2q7Xd12bV",
    "name": "desk flat lay with a tulip",
-   "group": "desk flat lay with a tulip"
+   "group": "desk flat lay with a tulip",
+   "tags": [
+    "flowers",
+    "workspace"
+   ]
   },
   {
    "id": "1RKGF2ynOfO_pff4zz6IxRPLElSLyfnT9",
    "name": "notebook on a bed",
-   "group": "notebook on a bed"
+   "group": "notebook on a bed",
+   "tags": [
+    "reading",
+    "rest",
+    "writing"
+   ]
   },
   {
    "id": "1c0EjOiUgDlj-VhccWAEu1h28ZePB3PZG",
    "name": "feet in fluffy slippers",
-   "group": "feet in fluffy slippers"
+   "group": "feet in fluffy slippers",
+   "tags": [
+    "rest"
+   ]
   },
   {
    "id": "1pl9gbS7cXaJTjBmVR3xAp6XVsKSP0m8e",
    "name": "slippers and a book on a bed",
-   "group": "slippers and a book on a bed"
+   "group": "slippers and a book on a bed",
+   "tags": [
+    "reading",
+    "rest"
+   ]
   },
   {
    "id": "1muGXAQK57UEMyLtb6CCfGkuNmftjyqWH",
    "name": "hands at a desktop keyboard",
-   "group": "hands at a desktop keyboard"
+   "group": "hands at a desktop keyboard",
+   "tags": [
+    "laptop",
+    "workspace"
+   ]
   },
   {
    "id": "1J3shLloQUy0T10ZdQqDdex1Kl3wrFp65",
    "name": "woman typing on a bed with flowers",
-   "group": "woman typing on a bed with flowers"
+   "group": "woman typing on a bed with flowers",
+   "tags": [
+    "flowers",
+    "laptop",
+    "rest"
+   ]
   },
   {
    "id": "17afztGi0F-CDDhdcvryiOlKqRUMVtThk",
    "name": "home office with a mood board",
-   "group": "home office with a mood board"
+   "group": "home office with a mood board",
+   "tags": [
+    "making",
+    "workspace"
+   ]
   },
   {
    "id": "1FNKt5zlvcYH4932qizM0IKgx4rQaz-KS",
    "name": "laptop on a desk with flowers",
-   "group": "laptop on a desk with flowers"
+   "group": "laptop on a desk with flowers",
+   "tags": [
+    "flowers",
+    "laptop",
+    "workspace"
+   ]
   },
   {
    "id": "1Sy3l6jm6F7bWw8ce_2k28voZE4o6eHUz",
    "name": "woman typing on a laptop on her lap",
-   "group": "woman typing on a laptop on her lap"
+   "group": "woman typing on a laptop on her lap",
+   "tags": [
+    "laptop"
+   ]
   },
   {
    "id": "1vcTmdg5fgDsSRxqMceehJrk3Q9bL7MPV",
    "name": "person working at a laptop by a window",
-   "group": "person working at a laptop by a window"
+   "group": "person working at a laptop by a window",
+   "tags": [
+    "laptop",
+    "workspace"
+   ]
   },
   {
    "id": "1poG4xIXTIApWyO4w1XDir-x1iLcj6-y9",
    "name": "hand with sticky notes on glass",
-   "group": "hand with sticky notes on glass"
+   "group": "hand with sticky notes on glass",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "1iRDqGlW6cCjoBsmnwrs_ru53LN8gyVjq",
    "name": "woman at a whiteboard with sticky notes",
-   "group": "woman at a whiteboard with sticky notes"
+   "group": "woman at a whiteboard with sticky notes",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "10mEvUQvwhF11B10AIBkJKJ1rfzi6Lr_J",
    "name": "woman pinning notes to a board",
-   "group": "woman pinning notes to a board"
+   "group": "woman pinning notes to a board",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "1phN7s7vYIqJroBW4K7k1NdQbg32pzuVU",
    "name": "planner with a plant",
-   "group": "planner with a plant"
+   "group": "planner with a plant",
+   "tags": [
+    "flowers",
+    "writing"
+   ]
   },
   {
    "id": "1avwaj5eMaDwaEoEmSWJuUEIlAvWPyeGA",
    "name": "hand writing on sticky notes",
-   "group": "hand writing on sticky notes"
+   "group": "hand writing on sticky notes",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "1XnMIHoOMBJdukeRSWmy0TV4veKQQZ9TB",
    "name": "clipboard calendar flat lay",
-   "group": "clipboard calendar flat lay"
+   "group": "clipboard calendar flat lay",
+   "tags": [
+    "time",
+    "writing"
+   ]
   },
   {
    "id": "17bh-kNrXkIE1P1OfzQ82Tyv_HDZQB8RV",
    "name": "clipboard with a planner",
-   "group": "clipboard with a planner"
+   "group": "clipboard with a planner",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "1AaVZ0T5oIMBTbnQOLmcpF9rfvTxkFfgW",
    "name": "gold alarm clock",
-   "group": "gold alarm clock"
+   "group": "gold alarm clock",
+   "tags": [
+    "time"
+   ]
   },
   {
    "id": "1_VIYutr4pZF7EBcs2RIrFc6svM-S0-WY",
    "name": "laptop and coffee by a window",
-   "group": "laptop and coffee by a window"
+   "group": "laptop and coffee by a window",
+   "tags": [
+    "coffee",
+    "laptop",
+    "workspace"
+   ]
   },
   {
    "id": "1qLQ4vDE4x65F4JH2xlENEs7uCAH1fHgH",
    "name": "woman crafting at a table",
-   "group": "woman crafting at a table"
+   "group": "woman crafting at a table",
+   "tags": [
+    "making"
+   ]
   },
   {
    "id": "1SBYvUgD6BKti7WBm4aBsCP7WZcefFFCl",
    "name": "hands with a stack of papers",
-   "group": "hands with a stack of papers"
+   "group": "hands with a stack of papers",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "15w2QpKeqlYS-H4LI7bqhsMWZjzTGr2bO",
    "name": "laptop and coffee with slippers",
-   "group": "laptop and coffee with slippers"
+   "group": "laptop and coffee with slippers",
+   "tags": [
+    "coffee",
+    "laptop",
+    "rest"
+   ]
   },
   {
    "id": "17EDg5ns0RLPcjmeMDOY4t9HAy_SHHUnn",
    "name": "woman working at a laptop by flowers",
-   "group": "woman working at a laptop by flowers"
+   "group": "woman working at a laptop by flowers",
+   "tags": [
+    "flowers",
+    "laptop"
+   ]
   },
   {
    "id": "1TvQMWtwL0I1Qe-F3ECSjS-cBkCJNWopo",
    "name": "phone and notebook on a desk",
-   "group": "phone and notebook on a desk"
+   "group": "phone and notebook on a desk",
+   "tags": [
+    "phone",
+    "reading",
+    "workspace",
+    "writing"
+   ]
   },
   {
    "id": "1KmBbEUiEherKFLa-DNjbUei4UkCvtyPK",
    "name": "hands typing at a keyboard",
-   "group": "hands typing at a keyboard"
+   "group": "hands typing at a keyboard",
+   "tags": [
+    "laptop"
+   ]
   },
   {
    "id": "1Nk6YG_IfcFLbeTLA_I8iV_HR5JC7Bb43",
    "name": "mug on coasters",
-   "group": "mug on coasters"
+   "group": "mug on coasters",
+   "tags": [
+    "coffee"
+   ]
   },
   {
    "id": "1qzSPUIicrXUuUXJedseshAPQq_sP6gSP",
    "name": "laptop on a bed with a blanket",
-   "group": "laptop on a bed with a blanket"
+   "group": "laptop on a bed with a blanket",
+   "tags": [
+    "laptop",
+    "rest"
+   ]
   },
   {
    "id": "134oAm2FRnxZciwzLr21AOQpuNKSoF3NB",
    "name": "desk with baskets and stationery",
-   "group": "desk with baskets and stationery"
+   "group": "desk with baskets and stationery",
+   "tags": [
+    "workspace"
+   ]
   },
   {
    "id": "1bKlEFpehA4PXECB0_7l2Bt5J3-hNMoJo",
    "name": "diary and coffee on a desk",
-   "group": "diary and coffee on a desk"
+   "group": "diary and coffee on a desk",
+   "tags": [
+    "coffee",
+    "workspace",
+    "writing"
+   ]
   },
   {
    "id": "1xDxTCQpZqUJ-FlqDSPodYhguRCLV6r6o",
    "name": "hands typing on a laptop on a sofa 2",
-   "group": "hands typing on a laptop on a sofa"
+   "group": "hands typing on a laptop on a sofa",
+   "tags": [
+    "laptop",
+    "rest"
+   ]
   },
   {
    "id": "1i0_HzSxX75QOUP8_iQK-yfwtZQhHZ0JY",
    "name": "hand painting a card",
-   "group": "hand painting a card"
+   "group": "hand painting a card",
+   "tags": [
+    "making"
+   ]
   },
   {
    "id": "19KEx07Hz2cgMwx1_tB0Nni_CxYoOK7o0",
    "name": "hands typing with a mug nearby",
-   "group": "hands typing with a mug nearby"
+   "group": "hands typing with a mug nearby",
+   "tags": [
+    "coffee",
+    "laptop"
+   ]
   },
   {
    "id": "1rem10D2SB8N1lC-LuJEN_eMNasQebDeF",
    "name": "coffee cup on a blanket",
-   "group": "coffee cup on a blanket"
+   "group": "coffee cup on a blanket",
+   "tags": [
+    "coffee",
+    "rest"
+   ]
   },
   {
    "id": "1j9PlIe4i5YVYiooF9Eeic57GwXFjL7uH",
    "name": "hand writing at a desk",
-   "group": "hand writing at a desk"
+   "group": "hand writing at a desk",
+   "tags": [
+    "workspace",
+    "writing"
+   ]
   },
   {
    "id": "1VUiQKBniuKb3EcFzr_bK_SQBJPkybAdA",
    "name": "hands holding a mug",
-   "group": "hands holding a mug"
+   "group": "hands holding a mug",
+   "tags": [
+    "coffee"
+   ]
   },
   {
    "id": "1dVgphYgqSJFGOp6pO2E6QFvvE9SwPIVU",
    "name": "woman in red reading a book",
-   "group": "woman in red reading a book"
+   "group": "woman in red reading a book",
+   "tags": [
+    "reading"
+   ]
   },
   {
    "id": "1iyqEp_1LULkYKseDUIaeo4sT5F6XqizK",
    "name": "desk by a bay window",
-   "group": "desk by a bay window"
+   "group": "desk by a bay window",
+   "tags": [
+    "workspace"
+   ]
   },
   {
    "id": "1w7LBFArIwzSKXOT7ln58gIGi87Dh-TcW",
    "name": "woman working on a laptop on the floor",
-   "group": "woman working on a laptop on the floor"
+   "group": "woman working on a laptop on the floor",
+   "tags": [
+    "laptop"
+   ]
   },
   {
    "id": "1aS0uALWwYhQkeFDRPWDeqCaO396gtYfH",
    "name": "clipboard planner with a calculator",
-   "group": "clipboard planner with a calculator"
+   "group": "clipboard planner with a calculator",
+   "tags": [
+    "writing"
+   ]
   },
   {
    "id": "12MRl9gnuQ6Zf8MjFKyuc5h-pnif_g3RX",
    "name": "teapot on a wooden tray",
-   "group": "teapot on a wooden tray"
+   "group": "teapot on a wooden tray",
+   "tags": [
+    "coffee",
+    "food"
+   ]
   },
   {
    "id": "1eQgiYnwzeQ31T_gSsclsjkb-sZtDHBH5",
    "name": "man drinking coffee at a laptop 2",
-   "group": "man drinking coffee at a laptop"
+   "group": "man drinking coffee at a laptop",
+   "tags": [
+    "coffee",
+    "laptop"
+   ]
   },
   {
    "id": "139E1m3LN-88A9mr49JFFrPy_mVwZ6_6G",
    "name": "coffee tray on a white bed",
-   "group": "coffee tray on a white bed"
+   "group": "coffee tray on a white bed",
+   "tags": [
+    "coffee",
+    "food",
+    "rest"
+   ]
   },
   {
    "id": "11FFWHzGTAmLfe07GxYXyvCKr_xCd-iVL",
    "name": "hands holding an open book 2",
-   "group": "hands holding an open book"
+   "group": "hands holding an open book",
+   "tags": [
+    "reading",
+    "writing"
+   ]
   },
   {
    "id": "1dmMpvNtttCJ50MUaUzQt_lLZOvi06Gxx",
    "name": "hand at a white desk with dried palms",
-   "group": "hand at a white desk with dried palms"
+   "group": "hand at a white desk with dried palms",
+   "tags": [
+    "flowers",
+    "workspace"
+   ]
   },
   {
    "id": "1dVqtI46jyhElVHFsl3N5RfDI06u3NYeq",
    "name": "granola bowl and coffee on silk 3",
-   "group": "granola bowl and coffee on silk"
+   "group": "granola bowl and coffee on silk",
+   "tags": [
+    "coffee",
+    "food"
+   ]
   },
   {
    "id": "1Pda7lLtIlpqV_QJffRrciObWuai4EUAy",
    "name": "candle and bowl on a bedside table",
-   "group": "candle and bowl on a bedside table"
+   "group": "candle and bowl on a bedside table",
+   "tags": [
+    "candle",
+    "food",
+    "rest"
+   ]
   },
   {
    "id": "1eHg_WtiLki9f8wDOys-2qO1hQu1UZuDs",
    "name": "hands opening a notebook by a laptop 2",
-   "group": "hands opening a notebook by a laptop"
+   "group": "hands opening a notebook by a laptop",
+   "tags": [
+    "laptop",
+    "reading",
+    "writing"
+   ]
   },
   {
    "id": "1J_h3tpY-5kLX7f-AhZ9DXttxmZuQUfm1",
    "name": "laptop and camera gear by peonies",
-   "group": "laptop and camera gear by peonies"
+   "group": "laptop and camera gear by peonies",
+   "tags": [
+    "flowers",
+    "laptop",
+    "making"
+   ]
   },
   {
    "id": "1d9l9rU9aB7870DpfuKaI_6BGYY5xEjBO",
    "name": "phone and laptop on a white desk",
-   "group": "phone and laptop on a white desk"
+   "group": "phone and laptop on a white desk",
+   "tags": [
+    "laptop",
+    "phone",
+    "workspace"
+   ]
   },
   {
    "id": "1ocRc318mw7k4te1g4XIEmz-RUG2i1I48",
    "name": "blossom branch in a glass on a bed",
-   "group": "blossom branch in a glass on a bed"
+   "group": "blossom branch in a glass on a bed",
+   "tags": [
+    "flowers",
+    "rest"
+   ]
   },
   {
    "id": "1_t3S-s7_yBC0Qo6FZ8K8PFvH7KqBICua",
    "name": "pouring coffee into a frothy cup on a plate",
-   "group": "pouring coffee into a frothy cup on a plate"
+   "group": "pouring coffee into a frothy cup on a plate",
+   "tags": [
+    "coffee",
+    "food"
+   ]
   },
   {
    "id": "1HQk2TuMUbydNzEDWb3NY-JcO6CKgidYx",
    "name": "hands playing a piano by flowers",
-   "group": "hands playing a piano by flowers"
+   "group": "hands playing a piano by flowers",
+   "tags": [
+    "flowers",
+    "making"
+   ]
   },
   {
    "id": "1cnqm-mwaPKhmy8D-30Y0ybnQtBiYnJVW",
    "name": "iced coffee in a glass on lace",
-   "group": "iced coffee in a glass on lace"
+   "group": "iced coffee in a glass on lace",
+   "tags": [
+    "coffee"
+   ]
   },
   {
    "id": "1UgToE959D8ZQsKO-SuOmGGgugfvIRgGC",
    "name": "hand writing in a calendar by a plant",
-   "group": "hand writing in a calendar by a plant"
+   "group": "hand writing in a calendar by a plant",
+   "tags": [
+    "flowers",
+    "time",
+    "writing"
+   ]
   },
   {
    "id": "11KQJzu7dMg-nKpbhTsVjmG6BPMTYGW9l",
    "name": "flowers and petals on books",
-   "group": "flowers and petals on books"
+   "group": "flowers and petals on books",
+   "tags": [
+    "flowers",
+    "reading"
+   ]
   },
   {
    "id": "1LxmUhbo9JxfOgy5kEeE_TRBMa6u5vFtQ",
    "name": "hand lifting honey over a cup in bed",
-   "group": "hand lifting honey over a cup in bed"
+   "group": "hand lifting honey over a cup in bed",
+   "tags": [
+    "coffee",
+    "food",
+    "rest"
+   ]
   },
   {
    "id": "1vRgIIy83tG8LzBTwjMI1RPD9lxurnQCP",
    "name": "pouring coffee into a cup over ice 2",
-   "group": "pouring coffee into a cup over ice"
+   "group": "pouring coffee into a cup over ice",
+   "tags": [
+    "coffee",
+    "food"
+   ]
   },
   {
    "id": "14YPQhfhvpyMloHWQ-yNQOs3pgK-XkjVS",
    "name": "bedroom with a candle and laptop",
-   "group": "bedroom with a candle and laptop"
+   "group": "bedroom with a candle and laptop",
+   "tags": [
+    "candle",
+    "laptop",
+    "rest"
+   ]
   },
   {
    "id": "1J6z9PhJ1PAUCxQx96uvBe3agDTDGsgfG",
    "name": "candles by a snowy window 2",
-   "group": "candles by a snowy window"
+   "group": "candles by a snowy window",
+   "tags": [
+    "candle",
+    "workspace"
+   ]
   },
   {
    "id": "1ckiD2o6Rr2JGRQfZ5Xt0NLjZciZAr3cn",
    "name": "candles by a snowy window",
-   "group": "candles by a snowy window"
+   "group": "candles by a snowy window",
+   "tags": [
+    "candle",
+    "workspace"
+   ]
   },
   {
    "id": "1gf2_eHBkv4UZ3GoDv-L-elWiD9gF5G5F",
    "name": "candle and tray on a white bed",
-   "group": "candle and tray on a white bed"
+   "group": "candle and tray on a white bed",
+   "tags": [
+    "candle",
+    "food",
+    "rest"
+   ]
   },
   {
    "id": "1f2fPW85OdAC_W17JP-7w_M2abLuq-hcf",
    "name": "moka pot and cups on a bed tray",
-   "group": "moka pot and cups on a bed tray"
+   "group": "moka pot and cups on a bed tray",
+   "tags": [
+    "coffee",
+    "food",
+    "rest"
+   ]
   },
   {
    "id": "1JVpc7HbhDCJ-pfA6cVnKfV1oePuEoKgT",
    "name": "coffee mug on rumpled bedding 2",
-   "group": "coffee mug on rumpled bedding"
+   "group": "coffee mug on rumpled bedding",
+   "tags": [
+    "coffee",
+    "rest"
+   ]
   },
   {
    "id": "1Rfk7VLshaPlBlPaQBXW3yCGhppbSYf8_",
    "name": "coffee cups on a tray on a bed",
-   "group": "coffee cups on a tray on a bed"
+   "group": "coffee cups on a tray on a bed",
+   "tags": [
+    "coffee",
+    "food",
+    "rest"
+   ]
   },
   {
    "id": "19PFKNRUDeSh2ILYDz-qLLANcsINlZvmy",
    "name": "desk clock croissant and coffee",
-   "group": "desk clock croissant and coffee"
+   "group": "desk clock croissant and coffee",
+   "tags": [
+    "coffee",
+    "food",
+    "time",
+    "workspace"
+   ]
   },
   {
    "id": "1FBpXgC_CqSlvTGm4VKmjYPaGcWG0c1zo",
    "name": "soft shadows on a white curtain 2",
-   "group": "soft shadows on a white curtain"
+   "group": "soft shadows on a white curtain",
+   "tags": [
+    "rest"
+   ]
   },
   {
    "id": "143hQJXGO2Z1O1s-JMlS21rpoRPROZI1k",
    "name": "espresso pouring into a cup 2",
-   "group": "espresso pouring into a cup"
+   "group": "espresso pouring into a cup",
+   "tags": [
+    "coffee",
+    "food"
+   ]
   },
   {
    "id": "1TsjAnJ8jJLWqusubIY1BGwjg1DsKaZuv",
    "name": "hand reaching for a teacup in sunlight 2",
-   "group": "hand reaching for a teacup in sunlight"
+   "group": "hand reaching for a teacup in sunlight",
+   "tags": [
+    "coffee"
+   ]
   },
   {
    "id": "13ZrHKD1qvXr46Ds4XmYAssAjmLuZMR7M",
    "name": "honey and nuts on a knitted blanket",
-   "group": "honey and nuts on a knitted blanket"
+   "group": "honey and nuts on a knitted blanket",
+   "tags": [
+    "food",
+    "rest"
+   ]
   },
   {
    "id": "1RytJjIjL4EFcBPlD5RXkLoQ6awuCCPYB",
    "name": "hand placing stems in a round vase",
-   "group": "hand placing stems in a round vase"
+   "group": "hand placing stems in a round vase",
+   "tags": [
+    "flowers"
+   ]
   },
   {
    "id": "1t7UqeZpYfEntHkF1si99pFqno06adDRh",
    "name": "book and white flowers on a bed",
-   "group": "book and white flowers on a bed"
+   "group": "book and white flowers on a bed",
+   "tags": [
+    "flowers",
+    "reading",
+    "rest"
+   ]
   },
   {
    "id": "11QYxxTb3BSgm2JCg8EVJkODzprwdEkq9",
    "name": "hands holding a ceramic cup by a vase",
-   "group": "hands holding a ceramic cup by a vase"
+   "group": "hands holding a ceramic cup by a vase",
+   "tags": [
+    "coffee",
+    "flowers"
+   ]
   },
   {
    "id": "1VJ4CtAS9T0VHiaDqoww28m9qJfUD_Wrs",
    "name": "hands at a laptop with camera gear 2",
-   "group": "hands at a laptop with camera gear"
+   "group": "hands at a laptop with camera gear",
+   "tags": [
+    "laptop",
+    "making"
+   ]
   },
   {
    "id": "1jFtJe7xFO_3oq6Mul_lsRLzvc6ZzSoES",
    "name": "flowers and petals on a stack of books",
-   "group": "flowers and petals on a stack of books"
+   "group": "flowers and petals on a stack of books",
+   "tags": [
+    "flowers",
+    "reading"
+   ]
   },
   {
    "id": "1qTkSgYDwAsAybU7QRS-4236aoBCk0h81",
    "name": "hands kneading clay",
-   "group": "hands kneading clay"
+   "group": "hands kneading clay",
+   "tags": [
+    "making"
+   ]
   },
   {
    "id": "13Tm7Afs0xeUUSVIKem7q1WoCPWe8EOVc",
    "name": "cat watching a tablet on a bed",
-   "group": "cat watching a tablet on a bed"
+   "group": "cat watching a tablet on a bed",
+   "tags": [
+    "laptop",
+    "rest"
+   ]
   }
  ],
- "reuse_rule": "A clip may not be used again until 30 days after it was last used. Clips with the same group (same name apart from a trailing number) count as the same video."
+ "reuse_rule": "A clip may not be used again until 30 days after it was last used. Clips with the same group (same name apart from a trailing number) count as the same video.",
+ "match_rule": "The phrase must be about what is visible in the clip. Pick the clips first (both sharing a tag), look at a frame of each, then write the phrase about the thing on screen."
 }
