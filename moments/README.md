@@ -14,12 +14,18 @@ The evening post (concept B slot) on Instagram, TikTok, YouTube Shorts and Threa
 - Phrases: never repeat one from the log.
 
 ## The words must match the clip
-The phrase is about what the viewer SEES. Never put a laundry line over a coffee cup.
-1. Pick today's theme from the tags with enough allowed clips (`python3 eligible.py YYYY-MM-DD` prints TAGS).
-2. List that tag's clips (`--tag coffee`) and pick 2 that show the same kind of thing.
-3. Extract a frame from the middle of each clip and LOOK at it. Note the main thing on screen (a mug, a planner, slippers, a laptop).
-4. Write the phrase about that thing. Funny: a nudge tied to it ("Your coffee is cold again. Drink it anyway and open the file."). Support: a kind line tied to it ("Slippers on. Ten minutes counts.").
-5. If the clips do not show what the phrase names, change the phrase or the clips. Never ship a mismatch.
+The phrase is about what the viewer SEES. Never put a laundry line over a coffee cup. Two ways to get there, in this order:
+
+A. Words first (try this first):
+1. Write 2 or 3 candidate phrases for today's kind (see the voice below).
+2. For each one, name the thing a viewer would need to see (coffee, a planner, slippers, a laptop, a clock) and search the allowed clips: `python3 eligible.py YYYY-MM-DD --tag <tag>`, and also scan the clip names in the full list.
+3. Use the first phrase that has at least 2 allowed clips clearly showing that thing.
+
+B. Clips first (fallback when no phrase has a good match):
+1. Pick a tag with enough allowed clips (`eligible.py` prints TAGS), choose 2 clips that show the same kind of thing.
+2. Write the phrase about that thing.
+
+Either way: extract a frame from the middle of each clip and LOOK at it before rendering. If the clips do not show what the phrase names, change the phrase or the clips. Never ship a mismatch. The log records which way was used (`"method": "words-first"` or `"clips-first"`).
 
 ## Writing the phrase
 One short line, at most 70 characters, plain words, no dashes, no hashtags. It should feel like a friend texting you, not a poster.
