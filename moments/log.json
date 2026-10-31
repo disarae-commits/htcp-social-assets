@@ -83,6 +83,15 @@
       "clips": [
         "19KEx07Hz2cgMwx1_tB0Nni_CxYoOK7o0"
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "kind": "support",
+      "phrase": "Skipped a few days? Your planner is not keeping score.",
+      "method": "words-first",
+      "clips": [
+        "1phN7s7vYIqJroBW4K7k1NdQbg32pzuVU"
+      ]
     }
   ]
 }
