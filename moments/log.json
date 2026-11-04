@@ -122,6 +122,15 @@
         "147aI19MZ34cJ3JGNwd1iWOG28z2YBpsf",
         "1XnMIHoOMBJdukeRSWmy0TV4veKQQZ9TB"
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "support",
+      "phrase": "A blank page is not a test. Just open the notebook.",
+      "method": "words-first",
+      "clips": [
+        "1eHg_WtiLki9f8wDOys-2qO1hQu1UZuDs"
+      ]
     }
   ]
 }
