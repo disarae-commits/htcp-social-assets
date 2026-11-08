@@ -1,164 +1,174 @@
 {
-  "log": [
-    {
-      "date": "2026-10-21",
-      "kind": "funny",
-      "phrase": "Set a 10 minute timer. The dishes have waited long enough.",
-      "clips": [
-        "1AaVZ0T5oIMBTbnQOLmcpF9rfvTxkFfgW"
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "kind": "support",
-      "phrase": "You do not have to feel ready. Just write the first line.",
-      "method": "words-first",
-      "clips": [
-        "1TkhvcxgqNpXElpcGYtUng-_GGvejwJTT",
-        "1j9PlIe4i5YVYiooF9Eeic57GwXFjL7uH"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "kind": "funny",
-      "phrase": "The coffee is poured. Your excuses are running low.",
-      "method": "words-first",
-      "clips": [
-        "1_t3S-s7_yBC0Qo6FZ8K8PFvH7KqBICua"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "kind": "support",
-      "phrase": "Slippers on is allowed. Rest is part of finishing too.",
-      "method": "words-first",
-      "clips": [
-        "1c0EjOiUgDlj-VhccWAEu1h28ZePB3PZG",
-        "1pl9gbS7cXaJTjBmVR3xAp6XVsKSP0m8e"
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "kind": "funny",
-      "phrase": "Adding one more sticky note does not count as doing it. Nice try.",
-      "method": "words-first",
-      "clips": [
-        "1poG4xIXTIApWyO4w1XDir-x1iLcj6-y9"
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "kind": "support",
-      "phrase": "Starting late still counts. Open the laptop for ten minutes.",
-      "method": "words-first",
-      "clips": [
-        "1FNKt5zlvcYH4932qizM0IKgx4rQaz-KS",
-        "1_VIYutr4pZF7EBcs2RIrFc6svM-S0-WY"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "kind": "funny",
-      "phrase": "That half done craft project misses you. Ten minutes. Go.",
-      "method": "words-first",
-      "clips": [
-        "1qLQ4vDE4x65F4JH2xlENEs7uCAH1fHgH",
-        "1qTkSgYDwAsAybU7QRS-4236aoBCk0h81"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "kind": "support",
-      "phrase": "Your plan does not have to be pretty. Just open the planner.",
-      "method": "words-first",
-      "clips": [
-        "1UgToE959D8ZQsKO-SuOmGGgugfvIRgGC"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "kind": "funny",
-      "phrase": "You opened the laptop. Honestly, that was the hard part.",
-      "method": "clips-first",
-      "clips": [
-        "19KEx07Hz2cgMwx1_tB0Nni_CxYoOK7o0"
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "kind": "support",
-      "phrase": "Skipped a few days? Your planner is not keeping score.",
-      "method": "words-first",
-      "clips": [
-        "1phN7s7vYIqJroBW4K7k1NdQbg32pzuVU"
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "kind": "funny",
-      "phrase": "Extra hour today. Refill the mug, then do one tiny task. Deal?",
-      "method": "words-first",
-      "clips": [
-        "1Nk6YG_IfcFLbeTLA_I8iV_HR5JC7Bb43",
-        "1VUiQKBniuKb3EcFzr_bK_SQBJPkybAdA"
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "kind": "support",
-      "phrase": "Your first draft is allowed to be messy. Type one line.",
-      "method": "words-first",
-      "clips": [
-        "1KmBbEUiEherKFLa-DNjbUei4UkCvtyPK",
-        "1keRX-Duf4RayjyzxP4CrdOLCr_od5a52"
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "kind": "funny",
-      "phrase": "Your brain is not a filing cabinet. Put it on paper.",
-      "method": "words-first",
-      "clips": [
-        "147aI19MZ34cJ3JGNwd1iWOG28z2YBpsf",
-        "1XnMIHoOMBJdukeRSWmy0TV4veKQQZ9TB"
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "kind": "support",
-      "phrase": "A blank page is not a test. Just open the notebook.",
-      "method": "words-first",
-      "clips": [
-        "1eHg_WtiLki9f8wDOys-2qO1hQu1UZuDs"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "kind": "funny",
-      "phrase": "Cozy candle: lit. That one task: still waiting. Your move.",
-      "method": "words-first",
-      "clips": [
-        "1Pda7lLtIlpqV_QJffRrciObWuai4EUAy"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "kind": "support",
-      "phrase": "You do not need the perfect desk. The couch counts.",
-      "method": "words-first",
-      "clips": [
-        "1xDxTCQpZqUJ-FlqDSPodYhguRCLV6r6o",
-        "1Sy3l6jm6F7bWw8ce_2k28voZE4o6eHUz"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "kind": "funny",
-      "phrase": "Coffee first, sure. Then one tiny task before it gets cold.",
-      "method": "words-first",
-      "clips": [
-        "1JVpc7HbhDCJ-pfA6cVnKfV1oePuEoKgT"
-      ]
-    }
-  ]
+ "log": [
+  {
+   "date": "2026-10-21",
+   "kind": "funny",
+   "phrase": "Set a 10 minute timer. The dishes have waited long enough.",
+   "clips": [
+    "1AaVZ0T5oIMBTbnQOLmcpF9rfvTxkFfgW"
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "kind": "support",
+   "phrase": "You do not have to feel ready. Just write the first line.",
+   "method": "words-first",
+   "clips": [
+    "1TkhvcxgqNpXElpcGYtUng-_GGvejwJTT",
+    "1j9PlIe4i5YVYiooF9Eeic57GwXFjL7uH"
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "kind": "funny",
+   "phrase": "The coffee is poured. Your excuses are running low.",
+   "method": "words-first",
+   "clips": [
+    "1_t3S-s7_yBC0Qo6FZ8K8PFvH7KqBICua"
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "kind": "support",
+   "phrase": "Slippers on is allowed. Rest is part of finishing too.",
+   "method": "words-first",
+   "clips": [
+    "1c0EjOiUgDlj-VhccWAEu1h28ZePB3PZG",
+    "1pl9gbS7cXaJTjBmVR3xAp6XVsKSP0m8e"
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "kind": "funny",
+   "phrase": "Adding one more sticky note does not count as doing it. Nice try.",
+   "method": "words-first",
+   "clips": [
+    "1poG4xIXTIApWyO4w1XDir-x1iLcj6-y9"
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "kind": "support",
+   "phrase": "Starting late still counts. Open the laptop for ten minutes.",
+   "method": "words-first",
+   "clips": [
+    "1FNKt5zlvcYH4932qizM0IKgx4rQaz-KS",
+    "1_VIYutr4pZF7EBcs2RIrFc6svM-S0-WY"
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "kind": "funny",
+   "phrase": "That half done craft project misses you. Ten minutes. Go.",
+   "method": "words-first",
+   "clips": [
+    "1qLQ4vDE4x65F4JH2xlENEs7uCAH1fHgH",
+    "1qTkSgYDwAsAybU7QRS-4236aoBCk0h81"
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "kind": "support",
+   "phrase": "Your plan does not have to be pretty. Just open the planner.",
+   "method": "words-first",
+   "clips": [
+    "1UgToE959D8ZQsKO-SuOmGGgugfvIRgGC"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "kind": "funny",
+   "phrase": "You opened the laptop. Honestly, that was the hard part.",
+   "method": "clips-first",
+   "clips": [
+    "19KEx07Hz2cgMwx1_tB0Nni_CxYoOK7o0"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "support",
+   "phrase": "Skipped a few days? Your planner is not keeping score.",
+   "method": "words-first",
+   "clips": [
+    "1phN7s7vYIqJroBW4K7k1NdQbg32pzuVU"
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "kind": "funny",
+   "phrase": "Extra hour today. Refill the mug, then do one tiny task. Deal?",
+   "method": "words-first",
+   "clips": [
+    "1Nk6YG_IfcFLbeTLA_I8iV_HR5JC7Bb43",
+    "1VUiQKBniuKb3EcFzr_bK_SQBJPkybAdA"
+   ]
+  },
+  {
+   "date": "2026-11-02",
+   "kind": "support",
+   "phrase": "Your first draft is allowed to be messy. Type one line.",
+   "method": "words-first",
+   "clips": [
+    "1KmBbEUiEherKFLa-DNjbUei4UkCvtyPK",
+    "1keRX-Duf4RayjyzxP4CrdOLCr_od5a52"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "kind": "funny",
+   "phrase": "Your brain is not a filing cabinet. Put it on paper.",
+   "method": "words-first",
+   "clips": [
+    "147aI19MZ34cJ3JGNwd1iWOG28z2YBpsf",
+    "1XnMIHoOMBJdukeRSWmy0TV4veKQQZ9TB"
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "kind": "support",
+   "phrase": "A blank page is not a test. Just open the notebook.",
+   "method": "words-first",
+   "clips": [
+    "1eHg_WtiLki9f8wDOys-2qO1hQu1UZuDs"
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "kind": "funny",
+   "phrase": "Cozy candle: lit. That one task: still waiting. Your move.",
+   "method": "words-first",
+   "clips": [
+    "1Pda7lLtIlpqV_QJffRrciObWuai4EUAy"
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "kind": "support",
+   "phrase": "You do not need the perfect desk. The couch counts.",
+   "method": "words-first",
+   "clips": [
+    "1xDxTCQpZqUJ-FlqDSPodYhguRCLV6r6o",
+    "1Sy3l6jm6F7bWw8ce_2k28voZE4o6eHUz"
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "kind": "funny",
+   "phrase": "Coffee first, sure. Then one tiny task before it gets cold.",
+   "method": "words-first",
+   "clips": [
+    "1JVpc7HbhDCJ-pfA6cVnKfV1oePuEoKgT"
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "kind": "support",
+   "phrase": "Slow Sunday with a book? That counts. Rest helps you finish.",
+   "method": "words-first",
+   "clips": [
+    "1dVgphYgqSJFGOp6pO2E6QFvvE9SwPIVU",
+    "1t7UqeZpYfEntHkF1si99pFqno06adDRh"
+   ]
+  }
+ ]
 }
